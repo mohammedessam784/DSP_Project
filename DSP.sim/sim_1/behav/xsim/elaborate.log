@@ -1,0 +1,20 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: F:/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 21bf7384ed2a4bf8aecb814b31ac5fd7 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_DSP_behav xil_defaultlib.tb_DSP xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Reg_Wire_module(N=8)
+Compiling module xil_defaultlib.Reg_Wire_module(N=18)
+Compiling module xil_defaultlib.Reg_Wire_module(RW=0,N=18)
+Compiling module xil_defaultlib.Reg_Wire_module(N=48)
+Compiling module xil_defaultlib.Reg_Wire_module(N=36)
+Compiling module xil_defaultlib.Reg_Wire_module(N=1)
+Compiling module xil_defaultlib.MUX_4x1(N=48)
+Compiling module xil_defaultlib.DSP_default
+Compiling module xil_defaultlib.tb_DSP
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_DSP_behav

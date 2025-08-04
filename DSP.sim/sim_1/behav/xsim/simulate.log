@@ -1,0 +1,25 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+PASS: Reset cleared outputs at time 50000
+---- Path 1 Results ----
+PASS1: BCOUT
+PASS1: M
+PASS1: P
+PASS1: PCOUT
+PASS1: CARRY
+---- Path 2 Results ----
+PASS2: BCOUT
+PASS2: M
+PASS2: P/PCOUT
+PASS2: CARRY
+---- Path 3 Results ----
+PASS3: BCOUT
+PASS3: M
+PASS3: P/PCOUT
+PASS3: CARRY
+---- Path 4 Results ----
+PASS4: BCOUT
+PASS4: M
+PASS4: P/PCOUT
+PASS4: CARRY
+All tests completed at time 180000
